@@ -1,0 +1,20 @@
+Source: gearmand
+Section: unknown
+Priority: extra
+Maintainer: Endre Karlson <endre.karlson@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/gearmand.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/gearmand.git;a=summary
+
+Package: gearmand
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: gearmand-doc
+Architecture: all
+Description: documentation for gearmand
+ <insert long description, indented with spaces>

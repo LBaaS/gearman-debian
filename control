@@ -14,7 +14,7 @@ Build-Depends:
  libtool,
  uuid-dev,
  cyassl
-Standards-Version: 3.9.2
+Standards-Version: 3.9.4
 Homepage: http://launchpad.net/gearmand
 #Vcs-Git: git://git.debian.org/collab-maint/gearmand.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/gearmand.git;a=summary

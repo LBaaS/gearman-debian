@@ -1,7 +1,7 @@
 Source: gearmand
 Section: misc
 Priority: extra
-Maintainer: Some Geek <someone@hp.com>
+Maintainer: Endre Karlson <endre.karlson@hp.com>
 Build-Depends:
  autoconf,
  automake,

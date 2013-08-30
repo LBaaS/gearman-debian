@@ -11,6 +11,7 @@ Build-Depends:
  libboost-thread-dev (>= 1.39.0),
  libevent-dev,
  libsqlite3-dev (>= 3.0.0),
+ libdrizzle1,
  libtool,
  uuid-dev,
  cyassl

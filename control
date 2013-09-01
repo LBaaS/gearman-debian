@@ -12,6 +12,7 @@ Build-Depends:
  libevent-dev,
  libsqlite3-dev (>= 3.0.0),
  libdrizzle1,
+ libredis,
  libtool,
  uuid-dev,
  cyassl

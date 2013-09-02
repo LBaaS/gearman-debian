@@ -13,7 +13,7 @@
 	dh $@
 
 override_dh_auto_configure:
-	dh_auto_configure -- --enable-ssl
+	dh_auto_configure -- --enable-ssl --disable-libdrizzle --disable-hiredis --disable-libpq
 
 override_dh_auto_test:
 

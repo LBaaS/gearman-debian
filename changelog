@@ -1,3 +1,10 @@
+gearmand (1.1.9~20130802-4) precise; urgency=high
+
+  * Remove redis, libpq, drizzle as they are not needed.
+  * Fix builddeps
+
+ -- Endre Karlson <endre.karlson@hp.com>  Thu, 01 Sep 2013 09:40:00 +0200
+
 gearmand (1.1.9~20130802-3) precise; urgency=high
 
   * Add dep on libredis which failed build to fail

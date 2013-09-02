@@ -5,17 +5,17 @@ Maintainer: Endre Karlson <endre.karlson@hp.com>
 Build-Depends:
  autoconf,
  automake,
+ chrpath,
+ cyassl,
  debhelper (>= 9),
- libboost-program-options-dev (>= 1.39.0),
- libboost-system-dev (>= 1.39.0),
- libboost-thread-dev (>= 1.39.0),
+ gperf,
+ libboost-all-dev (>= 1.39.0),
  libevent-dev,
+ libcloog-ppl0,
  libsqlite3-dev (>= 3.0.0),
- libdrizzle1,
- libredis,
  libtool,
  uuid-dev,
- cyassl
+ valgrind
 Standards-Version: 3.9.4
 Homepage: http://launchpad.net/gearmand
 #Vcs-Git: git://git.debian.org/collab-maint/gearmand.git

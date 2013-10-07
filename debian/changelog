@@ -1,3 +1,9 @@
+gearmand (1.1.9~20130802-3) precise; urgency=high
+
+  * Logrorate
+
+ -- Endre Karlson <endre.karlson@hp.com>  Mon, 07 Okt 2013 18:23:00 +0200
+
 gearmand (1.1.9~20130802-2libra1) precise; urgency=high
 
   * Fix control so it actually builds

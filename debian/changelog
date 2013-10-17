@@ -1,3 +1,9 @@
+gearmand (1.1.9~20130802-4) precise; urgency=high
+
+  * Fix stack explosions breaking gearman
+
+ -- Andrew Hutchings <andrew@linuxjedi.co.uk>  Thu, 17 Oct 2013 07:12:04 +0100
+
 gearmand (1.1.9~20130802-3) precise; urgency=high
 
   * Logrorate
